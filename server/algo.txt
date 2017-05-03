@@ -1,0 +1,12 @@
+need a server //express.js
+
+need body parser // working with json
+
+need to start the app
+
+need routes
+
+define routes
+
+need view engine
+

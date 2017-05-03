@@ -1,0 +1,20 @@
+{
+  "name": "meantodos",
+  "description": "mean todos app",
+  "main": "server.js",
+  "authors": [
+    "karan saini"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

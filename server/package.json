@@ -1,0 +1,17 @@
+{
+  "name": "meantodos",
+  "version": "1.0.0",
+  "description": "mean todos app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karan saini",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser" : "*",
+    "ejs" : "*",
+    "express" : "*",
+    "mongojs" : "*"
+  }
+}
